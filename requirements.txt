@@ -1,5 +1,6 @@
-tensorflow>=2.16.1
-streamlit>=1.31.0
+tensorflow==2.16.1
+keras==3.0.0
+streamlit
 gdown
 opencv-python-headless
 pillow
